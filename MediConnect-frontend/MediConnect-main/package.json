@@ -1,0 +1,38 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@coreui/coreui": "^5.0.0-beta.1",
+    "@coreui/react": "^5.0.0-beta.0",
+    "@zegocloud/zego-uikit-prebuilt": "^1.8.13",
+    "axios": "^1.6.0",
+    "critters": "^0.0.23",
+    "framer-motion": "^11.11.10",
+    "gsap": "^3.12.2",
+    "next": "^14.0.1",
+    "next-navigation": "^1.0.6",
+    "next-router-mock": "^0.9.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.12.0",
+    "react-router": "^6.17.0",
+    "react-router-dom": "^6.17.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "file-loader": "^6.2.0",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
